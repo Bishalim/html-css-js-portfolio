@@ -249,7 +249,7 @@ section{
 }
 
 .about-containers{
-    gap: 2rem;
+    gap: 2.5rem;
     margin-top: 2rem;
     margin-bottom: 2rem;
 }
@@ -294,6 +294,9 @@ section{
     margin: auto 0  ;
 }
 
+.text-container{
+    margin-top: 2rem;
+}
 /* Experience Sections */
 
 #experience{
@@ -398,12 +401,7 @@ article .icon{
 
 /* footer sections */
 
-#footer{
-    position:relative;
-}
-
 footer{
-    position: relative;
     height: 26vh;
     margin: 0 1rem;
 }
